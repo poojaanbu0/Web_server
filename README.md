@@ -53,8 +53,9 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
+![](./ex01code.png)
 ![output](./ex01.jpeg)
 
 # RESULT:
 
-The program for implementing Simple Web Server has been executed succesfully
+The program for implementing Simple Web Server has been executed succesfully.
